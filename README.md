@@ -5,7 +5,7 @@
 </h4>
 
 ```bash
-# Como fica o "request" ou seja a url para envio.
+# Como fica o "request". ou seja a url para envio.
 https://www.seudominio.com.br/suapasta/api.php?tipo_mensagem=texto&numero=556284879620&mensagem=Sua Mensagem
 ```
 
