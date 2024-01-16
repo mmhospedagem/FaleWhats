@@ -45,7 +45,7 @@ echo $log_por_data;
 
 //Caso queira puxar todos os logs:
 
-$todos_os_logs = $api->fullLog("16/01/2024");
+$todos_os_logs = $api->fullLog();
 echo $todos_os_logs;
 
 ```
