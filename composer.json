@@ -1,0 +1,21 @@
+{
+    "name": "fale-whats/mmhospedagem",
+    "description": "SDK para integração da API MMHospedagem/FaleWhats",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maik Venancio",
+            "email": "suporte@mmhospedagem.com.br"
+        },
+        {
+            "name": "Marcos Antonio",
+            "email": "marcos.antonio@mmhospedagem.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MMHospedagem\\FaleWhats\\": "src/MMHospedagem/FaleWhats/"
+        }
+    }
+}
