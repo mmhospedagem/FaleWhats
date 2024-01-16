@@ -3,6 +3,10 @@
     "description": "SDK para integração da API MMHospedagem/FaleWhats",
     "type": "library",
     "license": "MIT",
+	"homepage": "https://mmhospedagem.com.br",
+	"require": {
+        "php": ">=7.4.0"
+    },
     "authors": [
         {
             "name": "Maik Venancio",
