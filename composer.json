@@ -1,5 +1,5 @@
 {
-    "name": "MMHospedagem/FaleWhats",
+    "name": "mmhospedagem/fale-whats",
     "description": "SDK para integração da API MMHospedagem/FaleWhats",
     "type": "library",
     "license": "MIT",
